@@ -24,6 +24,7 @@
     "-lightbox",
     "-github-buttons@2.1.0",
     "-custom-favicon",
+    "-summary",
     "sitemap-general",
     "edit-link",
     "page-footer-ex"
